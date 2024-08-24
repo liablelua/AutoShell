@@ -2,11 +2,17 @@
 ## Functions
 - [x] echo
 - [x] cd
-- [ ] mkdir
-- [ ] dir
-- [ ] inject
-- [ ] start
-- [ ] title
+- [x] mkdir
+- [x] dir
+- [x] start
+- [x] title
+- [ ] webdl
+- [ ] unzip
+- [ ] zip
+- [ ] copy
+- [ ] about
+- [ ] developer
+- [ ] processes
 basic things atm
 # What can it do?
 ## Basic Console
